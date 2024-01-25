@@ -122,7 +122,7 @@ function App() {
   return (
     <>
       <ToastContainer />
-      {!loading &&(
+      {!loading && (
       <button
         type="button"
         data-hs-overlay="#hs-slide-up-animation-modal"
